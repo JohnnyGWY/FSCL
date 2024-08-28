@@ -1,5 +1,5 @@
 # FSCL
-FSCL: A Joint Framework of Few-Shot Contrastive Learning Representation in Relation Extraction
+FSCL: Contrastive Learning-Based Few-shot Relation Extraction with Open-book Datastore
 
 
 The available code will be uploaded later.
